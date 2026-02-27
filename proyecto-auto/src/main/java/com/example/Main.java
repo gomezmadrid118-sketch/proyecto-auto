@@ -1,10 +1,10 @@
-package com.actividad;
+package com.example;
 
 public class Main {
     public static void main(String[] args) {
-        Auto auto1 = new Auto();
-        Auto auto2 = new Auto();
-        Auto auto3 = new Auto();
+        Product auto1 = new Product();
+        Product auto2 = new Product();
+        Product auto3 = new Product();
 
         auto1.marca = "Chevrolet";
         auto2.marca = "Ford";

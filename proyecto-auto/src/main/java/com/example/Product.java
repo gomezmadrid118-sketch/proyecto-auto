@@ -1,6 +1,6 @@
-package com.actividad;
+package com.example;
 
-public class Auto {
+public class Product {
     String marca;
     int modelo;
     String color;
